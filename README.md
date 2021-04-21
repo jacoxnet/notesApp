@@ -12,7 +12,6 @@ That repository contained the beginning code from week3's project.
 
 *Key dfferences from teacher implementation*
 - array list instead of map for data structure for notes
-- all javascript code moved to separate .js file
 
 # How to start
 - After cloning the repository, perform `npm install` to install the necessary modules. Then, type `npm run dev` to run a server and start the javascript code in the top-level `index.js`.
