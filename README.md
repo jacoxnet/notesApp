@@ -20,6 +20,6 @@ Beginning with the code provided in class, this code implements a simple note-ta
 
 ## Using the app
 
-- Type in notes in the text area and click "Save Note". 
-- Each click of the "Save Note" button will add a new note. 
+- Type in notes in the text area and click "Save Note".
+- Each click of the "Save Note" button will add a new note.
 - View the notes by clicking "View Notes" and return to the initial page by clicking "Back".
